@@ -50,5 +50,5 @@ plt.show()
 # Karena label di dataset adalah 0 atau 1
 # Nanti bisa jadi labelnya lain seperti "bunga mawar" / "bunga melati"
 
-prediction = F.predict_classification(dataset, row0, 5)
+prediction = F.predict_classification(dataset, titik, 5)
 print('Expected %d, Got %d.' % (dataset[0][-1], prediction))
