@@ -10,13 +10,13 @@ Untuk belajar KNN kamu harus lancar menggunakan python terlebih dahulu
 - Mem plot kan data ke grafik kartesius dengan library namanya matplotlib
 
 
-Langkah-langkah aku belajar KNN
+# Langkah-langkah aku belajar KNN
 
-Lihat video untuk pemula dahulu
+### Lihat video untuk pemula dahulu
 
 [Penjelasan singkat KNN](https://www.youtube.com/watch?v=HVXime0nQeI)
 
-Terus praktekkan tutorial ini
+### Terus praktekkan tutorial ini
 
 [Tutorial KNN Sederhana + Kode](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
 
